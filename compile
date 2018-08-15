@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc graphic.c bresenham.c -lm -lcurses -o graphic
